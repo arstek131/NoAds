@@ -1,0 +1,12 @@
+C:\Users\Arslan-PC\Desktop\No ads\NoAds\NoAds\bin\Debug\NoAds.exe.config
+C:\Users\Arslan-PC\Desktop\No ads\NoAds\NoAds\bin\Debug\NoAds.exe
+C:\Users\Arslan-PC\Desktop\No ads\NoAds\NoAds\bin\Debug\NoAds.pdb
+C:\Users\Arslan-PC\Desktop\No ads\NoAds\NoAds\obj\Debug\NoAds.csprojResolveAssemblyReference.cache
+C:\Users\Arslan-PC\Desktop\No ads\NoAds\NoAds\obj\Debug\NoAds.Form1.resources
+C:\Users\Arslan-PC\Desktop\No ads\NoAds\NoAds\obj\Debug\NoAds.Properties.Resources.resources
+C:\Users\Arslan-PC\Desktop\No ads\NoAds\NoAds\obj\Debug\NoAds.csproj.GenerateResource.Cache
+C:\Users\Arslan-PC\Desktop\No ads\NoAds\NoAds\obj\Debug\NoAds.exe
+C:\Users\Arslan-PC\Desktop\No ads\NoAds\NoAds\obj\Debug\NoAds.pdb
+C:\Users\Arslan-PC\Desktop\SCUOLA\INFORMATICA\INFORMATICA 4 superiore\c#\No ads\NoAds\NoAds\bin\Debug\NoAds.exe.config
+C:\Users\Arslan-PC\Desktop\SCUOLA\INFORMATICA\INFORMATICA 4 superiore\c#\No ads\NoAds\NoAds\obj\Debug\NoAds.exe
+C:\Users\Arslan-PC\Desktop\SCUOLA\INFORMATICA\INFORMATICA 4 superiore\c#\No ads\NoAds\NoAds\obj\Debug\NoAds.pdb
