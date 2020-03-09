@@ -1,5 +1,5 @@
 # NoAds
-Powerful .NET program to blocking unwanted connections with a hosts File
+Powerful .NET program to blocking unwanted connections with a custom hosts File
 
 ## How it's made?
 Written in C# using windows forms.
